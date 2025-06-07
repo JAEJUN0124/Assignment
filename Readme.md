@@ -29,6 +29,7 @@
 - 백엔드: RESTful API, 소켓 통신
 - 데이터베이스: RDBMS (약 60만 단어 관리)
 - 실시간 통신: 소켓 통신, 가상 스레드 적용
+![Image](https://github.com/user-attachments/assets/cb7b4a48-ba68-4b6a-bd4e-2c57960429d6)
 
 ## 테스트 전략
 
